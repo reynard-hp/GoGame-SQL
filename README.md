@@ -1,6 +1,14 @@
 # GoGame-SQL
 Final project for academic course Introduction to Database System
 
+
+| Software Used |
+| --- |
+| SQL Server Developer 2019 |
+| SQL Server Management Studio 18.9.1 |
+| Visual Paradigm Community Edition 16.3 |
+
+
 ### The queries:
 1. Display StaffID (obtained from CustomerID replacing 'ST' with 'Staff'), StaffName (obtained from StaffName in uppercase format), and Total Sales (obtained from the total sales) for each staff whose gender equals to Male, and customer handled gender equals to Female.
 
